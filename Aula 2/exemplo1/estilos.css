@@ -1,0 +1,58 @@
+body{
+    background-color:#7fffd4;
+    font-size: large;
+    font-family: calibri light;
+}
+p{
+    background-color:#0000ff;
+    color: #ffffff;
+    border:#000000;
+    border-style: dotted;
+    border-width: 5px;
+    border-radius: 8px;
+    padding: 8px;
+}
+h1{
+    font-size: 50pt;
+    text-decoration: underline;
+}
+h1, h2 {
+    color :#008000;
+}
+img{
+    width: 800px;
+}
+a{
+    background-color: #ffffff;
+    padding: 15px;
+    text-decoration: none;
+    
+}
+a:hover{
+    background-color: #000000;
+    color: #ffffff;
+}
+h2{
+    padding-top: 30px;
+}
+section{
+    background-color: chartreuse;
+    
+}
+#conteudo-html{
+    margin-left: 200px;
+}
+#conteudo-css{
+    margin-right: 200px;
+}
+#cadeado{
+    width: 20px;
+}
+.foto{
+    border-width: 2px;
+    border-style: dotted;
+    border-color: darkgoldenrod;
+    border-radius: 10px;
+    padding: 10px;
+
+}

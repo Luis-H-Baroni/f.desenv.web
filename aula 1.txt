@@ -1,0 +1,23 @@
+Server-side/back-end/ roda no servidor
+client-side/front-end/ roda no navegador
+
+HTML
+linguagem de front-end
+linguagem de marcação( não é linguagem de programação)
+serve para estruturar as paginas web
+linguagem interpretada no navegador
+não é case-sensitive 
+formado por tags
+    <button> </button>
+
+    <p> </p>
+    <
+    <p> alo mundo </p>
+
+    <p> 
+        <small> </small>
+    </p>
+
+    <p>
+        <small/>
+    </p>
